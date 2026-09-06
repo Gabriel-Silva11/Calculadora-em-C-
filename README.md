@@ -59,7 +59,7 @@ O menu continua sendo exibido até que o usuário selecione a opção **0** para
        EXEMPLO
 =====================================
  1 - Soma
- 2 - Subtracao
+ 2 - Subtração
  ...
 20 - IMC
  0 - Sair
